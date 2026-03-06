@@ -48,7 +48,7 @@ Visitor Design Pattern
 
 The UML diagram below shows the structure of the Visitor Design Pattern implementation used in this project.
 
-![Visitor Pattern UML](Blank diagram.png)
+![Visitor Pattern UML](Blankdiagram.png)
 
 ---
 
